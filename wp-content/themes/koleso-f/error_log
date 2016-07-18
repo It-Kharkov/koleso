@@ -1,0 +1,11 @@
+[09-Jun-2016 16:49:04 Europe/Kiev] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nav_menu() in /home/vict579/public_html/test3/wp-content/themes/koleso-f/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/vict579/public_html/test3/wp-content/themes/koleso-f/index.php on line 72
+[12-Jun-2016 16:53:00 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:54:19 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:54:53 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:55:11 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:55:25 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:56:54 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10
+[12-Jun-2016 16:57:01 Europe/Kiev] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/vict579/public_html/test3/wp-content/themes/koleso-f/mail.php on line 10

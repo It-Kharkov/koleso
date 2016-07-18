@@ -1,0 +1,162 @@
+/*
+ Theme Name:   Koleso-f
+ Description:  Theme
+*/
+
+.top_info{
+    min-height:31px;
+    height:100%;
+    background: url('/wp-content/themes/koleso-f/img/top-bar-background.png');
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+    color:white;
+    padding-top: 1px;
+}
+
+.top_info_social{
+    display: block;
+    min-width: 160px;
+}
+
+@media screen and (max-width: 731px) {
+    .top_info_social{
+        padding-top: 8px;
+    }
+}
+
+
+.top_info_mail{
+    display: block;
+    min-width: 160px;
+    float: right;
+    padding-top: 4px;
+}
+
+.top_menu{
+    height:70px;
+    background: url('/wp-content/themes/koleso-f/img/header-background.png');
+    color:white;
+}
+
+.logo{
+    font-size: 28px;
+    padding-top: 14px;
+}
+
+.h70 > li > a{
+    height:70px;
+    color:white;
+    padding-top: 25px;
+}
+
+.h70 > li > a:hover {
+    background: #3389d7;
+}
+
+.main_menu{
+    text-transform: uppercase;
+}
+
+.hot_tour_img{
+    width: 100%;
+}
+
+.hot_tour_div{
+    padding:1px;
+    display:inline-block;
+    position:relative;
+}
+
+.hot_tour_text {
+    display: inline-block;
+    position: absolute;
+    padding: 5px;
+    color: white;
+    background: rgba(49, 132, 207, 0.67);
+    font-size: 24px;
+    bottom: 1px;
+    right: 1px;
+    left: 1px;
+}
+
+.tour_module{
+    padding-top:5px;
+    padding-left: 10%;
+}
+
+.line_blue{
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    background: #2E98D6;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.news_name{
+    font-size: 24px;
+    color: #666666;
+}
+
+.footer{
+    background: #2B2B2B;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.navbar-right{
+    /*padding-top: 40px;*/
+    height: 50px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    font-size:15px;
+}
+
+.call-hunter{
+    display: block;
+    font-size: 0;
+    background-color: #F05A00 !important;
+    line-height: 0;
+    cursor: pointer;
+    z-index: 100001;
+    position: fixed;
+    top: 35%;
+    right: 0px;
+    border: 2px solid #FFFFFF;
+    padding: 10px 4px 10px 4px;
+    border-right: 0;
+    -webkit-border-radius: 5px 0px 0px 5px;
+    -moz-border-radius: 5px 0px 0px 5px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+#logo-text{
+    font-family: 'Days One', sans-serif;
+    font-size: 25px;
+    color:#2E98D6;
+    margin-left: 0px;
+}
+
+.in{
+    height: 410px;
+}
+
+.navbar-brand{
+    padding-left: 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-brand{
+        padding-left: 15px;
+    }
+
+    #send_b{
+        text-align: center;
+    }
+
+}
